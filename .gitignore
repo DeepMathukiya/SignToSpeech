@@ -1,3 +1,5 @@
 asl_dataset/
 asl.h5
 vgg19_model_o8.keras
+ISL_Dataset/
+isl.h5
